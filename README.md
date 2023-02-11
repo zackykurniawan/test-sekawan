@@ -1,17 +1,17 @@
-Admin
-username: admin@gmail.com
+Admin<br>
+username: admin@gmail.com<br>
 password: 12345678
 
-Penyetuju 1
-username: staff@gmail.com
+Penyetuju 1<br>
+username: staff@gmail.com<br>
 password: 12345678
 
-Penyetuju 2
-username: boss@gmail.com
+Penyetuju 2<br>
+username: boss@gmail.com<br>
 password: 12345678
 
-Database version: 10.4.18-MariaDB
-PHP version: PHP 8.0.5
+Database version: 10.4.18-MariaDB<br>
+PHP version: PHP 8.0.5<br>
 Framework: Laravel
 
 Panduan penggunaan aplikasi:
